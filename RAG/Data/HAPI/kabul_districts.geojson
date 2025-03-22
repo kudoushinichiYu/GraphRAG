@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            69.2075,
+                            34.5553
+                        ],
+                        [
+                            69.25,
+                            34.5
+                        ],
+                        [
+                            69.28,
+                            34.53
+                        ],
+                        [
+                            69.2075,
+                            34.5553
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Kabul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            69.15,
+                            34.45
+                        ],
+                        [
+                            69.17,
+                            34.42
+                        ],
+                        [
+                            69.2,
+                            34.47
+                        ],
+                        [
+                            69.15,
+                            34.45
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bagrami"
+            }
+        }
+    ]
+}
