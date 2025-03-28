@@ -1,0 +1,43 @@
+EUAA: Latest Asylum Trends 2024 - Annual Analysis
+
+## **EU+ asylum applications decrease by 11% in 2024, and some changing trends established**
+
+**The number of asylum applications received in the EU+ decreased by over one tenth (11 %) in 2024, with applications from Syrians, Afghans and Turks all decreasing significantly. While Germany continued to receive the most applications in the EU+, these were down by one third last year. Cyprus continued to receive the most applications per capita. In 2024, almost half of all received applications (48 %) were from citizenships for which the recognition rate is low (≤ 20 %).**
+
+The European Union Agency for Asylum (EUAA) has just published [its annual analysis](https://reliefweb.int/node/add/report?content_entity_clone=3976838&content_entity_clone_language=en) of asylum trends in 2024. Some **1 014 000 asylum applications** were received in the EU+ [1](https://euaa.europa.eu/news-events/eu-asylum-applications-decrease-11-percent-in-2024#footnote1_YZT-6BXzDu8wzpfECXTwjiAptosKWN1TjG8QLlmA4vM_hqdYD11PZA3w), an **11 % decrease year-over-year**. Several of the main citizenships of asylum applicants in the EU+ each **recorded a significant decrease** in 2024. Applications from **Syrians (151 000)**, **Afghans (87 000)**, and **Turks (56 000)**, each decreased by 17 %, 24 % and 45 %, respectively, compared to 2023.
+
+Latin American citizenships also recorded notable changes in protection requests in 2024. **Venezuelans (74 000)** lodged a record number of applications, up by around a tenth (9 %) compared to 2023; while applications from **Colombians (52 000)** decreased by almost a fifth (- 18 %) in 2024. Taken together, not only did these two nationalities account for a majority of all [visa-free applicants in the EU+](https://public.flourish.studio/visualisation/21440748/), they also represented over three fifths of applicants **in Spain**. After a surge of boat arrivals in the Canary Islands, **Malians (17 000)** and **Senegalese (14 000)** both lodged more than twice as many applications in the EU+, compared to 2023.
+
+## **Changing trends in key receiving EU+ countries**
+
+In 2024, **Germany (237 000)** again received the most asylum applications in the EU+, though the number was **a third lower (- 29 %)**, year-over-year. While **Spain (166 000)**, **Italy (159 000)** and **France (159 000)** received rather similar numbers of asylum applications in 2024, at around 16 % of the EU+ total, each; these Member States were faced with new dynamics. For example, **Peruvians (27 000)**, who continued to lodge significant numbers of applications in the EU+, shifted to [applying mostly in Italy in 2024](https://public.flourish.studio/visualisation/21463972/), where they became the 2nd most populous citizenship.
+
+However, the number of asylum applications received does not convey the full measure of protection needs in the EU+. In December 2024, **around 4.4 million persons displaced** from the Russian invasion of Ukraine were receiving temporary protection. **Ukrainians (27 000)** lodged significantly more asylum applications in 2024 in the EU+, up by 90 % compared to 2023; half did so **in France** and one quarter **in Poland**. The number of Ukrainian applications received in 2024 was reminiscent of [initial figures in 2022](https://euaa.europa.eu/news-events/ukrainians-lodged-21700-asylum-applications-invasion-began), after the full-scale Russian invasion of Ukraine began.
+
+Evaluating which EU+ countries receive the most applications for asylum is important, but a simple like-for-like comparison is not always appropriate because their asylum and reception capacities can vary. **Cyprus (6 800)** has long been the recipient of the most applications per capita. By the end of 2024, **Greece (74 000)** received **the 2nd most applications per capita**. In 2024, [both countries received](https://public.flourish.studio/visualisation/21481219/) around **1 application for every 140 residents**.
+
+## **State of decision-taking on international protection**
+
+In 2024, the **EU+ recognition rate remained stable at 42 %**, though this aggregate figure masks significant variations across nationalities and a tendency to grant subsidiary protection, rather than refugee status.
+
+The Syrian recognition rate has been above 90% for most of the last two years. However, while recognition rates for Syrians **remained relatively aligned among decision-making countries** including Greece (90 %), Germany (92 %), and Austria (95 %), there was [significant variation](https://public.flourish.studio/visualisation/21499923/) in the *type* of protection granted.
+
+On the other hand, the Afghan recognition rate stood at 63 % at EU+ level, and there was significant variation across EU+ countries including Belgium (39 %), Germany (41 %), France (67 %), Austria (76%), Switzerland (90 %), and Greece (98 %). However, EU+ countries tended to **grant refugee status more often than subsidiary protection**.
+
+The EUAA notes that in 2024 **almost half of all applications received (48 %) were from citizenships for which the recognition rate is low (≤ 20 %)**. [2](https://euaa.europa.eu/news-events/eu-asylum-applications-decrease-11-percent-in-2024#footnote2_bJBcMlAODwHAbXuNhojwe6ZLtyHQxud1MEhSqCThY0_nUgbtO2Y6N70) Citizenships [in this group](https://public.flourish.studio/visualisation/21497919/) included **Bangladeshi**, **Moroccan** and **Tunisian** nationals. The future Asylum Procedure Regulation [3](https://euaa.europa.eu/news-events/eu-asylum-applications-decrease-11-percent-in-2024#footnote3_kOZxbKv5kOdpQ9gnunOo7VL4R2V1YWDwqXkB6fRhRY_en04HS1dTZC5) provides that applications from applicants from countries with a low recognition rate should be subjected to an accelerated examination procedure, and to an asylum border procedure when the relevant conditions are met.
+
+**For more information and a series of interactive data visualisations, please visit the EUAA** [**Latest Asylum Trends**](https://euaa.europa.eu/node/24930)
+
+### **Any further information may be obtained from the European Union Agency for Asylum’s Press Office at the following email addresses:**
+
+Press Office: press@euaa.europa.eu
+
+Andrew McKinlay, Press Officer: andrew.mckinlay@euaa.europa.eu
+
+Anis Cassar, Spokesperson: anis.cassar@euaa.europa.eu
+
+1 EUAA EPS data are preliminary *andmight differ from validated official statistics* submitted to Eurostat at a later stage. The total EPS numbers include an approximation for one EU+ country and may change after data updates.
+
+2 Nearly 200 citizenships were issued asylum decisions in 2024. Of these, 65 citizenships were issued at least 1 000 decisions and, among them, 37 had recognition rates of ≤ 20 %.
+
+3 [Regulation (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348), which becomes applicable on 12 June 2026, requires Member States to accelerate the examination of some cases including *inter alia* those from low recognition rate countries. Applications lodged before then will be examined under the rules of [Directive 2013/32/EU](https://eur-lex.europa.eu/eli/dir/2013/32/oj/eng).

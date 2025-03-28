@@ -1,0 +1,26 @@
+Ukraine Humanitarian Fund: Introducing the UHF Data Hub [EN/UK]
+
+**INTRODUCING THE UHF DATA HUB: A NEW ERA OF TRANSPARENCY AND IMPACT TRACKING**
+
+The [Ukraine Humanitarian Fund](https://www.unocha.org/ukraine-humanitarian-fund) (UHF) and [OCHA Ukraine](https://www.unocha.org/ukraine/) are pleased to announce the launch of the [**UHF Data Hub**](https://app.powerbi.com/view?r=eyJrIjoiMTBjZDg2YWItMDVkZC00ZDg5LTg5NDUtYjIyNGRhNTMyYmYyIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9), a first-of-its-kind humanitarian dashboard for data transparency and operational visibility. In close collaboration with the [CBPF Data Hub](https://cbpf.data.unocha.org/), OCHA Contribution Tracking System ([OCT](https://oct.unocha.org/)), OCHA Financial Tracking Service ([FTS](https://fts.unocha.org/countries/234/donors/2024?f%5B1%5D=destinationOrganizationIdName%3A10108%3AUkraine%20Humanitarian%20Fund)) and the [OneGMS](https://onegms.unocha.org/) portal, this pioneering platform provides real-time insights on UHF operations in Ukraine, currently covering 2023 and 2024. Available in English and Ukrainian, it is built on the PowerBI and updated hourly to reflect the latest data from OneGMS.
+
+Designed for maximum accessibility and impact, the UHF Data Hub is divided into four key sections:
+
+- [**Allocation Overview**](https://app.powerbi.com/view?r=eyJrIjoiMTBjZDg2YWItMDVkZC00ZDg5LTg5NDUtYjIyNGRhNTMyYmYyIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9&pageName=1c39469cc1b12057dd2f) – See the big picture of UHF allocations, including partners, projects, and planned reach by location and cluster. Get granular insights into allocation breakdowns by sex, age, and disability, plus funding distribution by partner type and level.
+- [**Donor Contributions**](https://app.powerbi.com/view?r=eyJrIjoiMTBjZDg2YWItMDVkZC00ZDg5LTg5NDUtYjIyNGRhNTMyYmYyIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9&pageName=8fefed8908a74c8503db) – Gain a full view of donor engagement, tracking paid and pledged contributions over time. It connects funding data to major humanitarian events and UHF allocations, providing a clear narrative of donor impact.
+- [**Partners**](https://app.powerbi.com/view?r=eyJrIjoiMTBjZDg2YWItMDVkZC00ZDg5LTg5NDUtYjIyNGRhNTMyYmYyIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9&pageName=5e65ec4bd2807b947295) – Explore UHF’s network of partners, categorized by location, organization type, and cluster. Find detailed information on each partner's projects, allocation amounts, and portfolio – all in one place.
+- [**Key Documents**](https://reliefweb.int/updates?advanced-search=%28PC241%29_%28S1503%29_%28F3.F6.F7.F9.F11.F12570%29&search=title%3A%22Ukraine+Humanitarian+Fund%22) – Access essential UHF-produced reports and reference materials.
+
+This dynamic, user-friendly dashboard is a go-to source for up-to-the-minute information on how UHF funding drives humanitarian action in Ukraine.
+
+***UHF #3YEARSON: DELIVERING IMPACT AT UNPRECEDENTED SCALE***
+
+*Since the escalation of war in February 2022,* [*UHF*](https://www.unocha.org/ukraine-humanitarian-fund) *has become the largest country-based pooled fund (CBPF) in the world. Over the past three years, UHF has delivered lifesaving, high-impact support to nearly 7 million people across Ukraine.*
+
+- *US$741 million in contributions (2022-2024) – accounting for over 20 per cent of the global CBPF funding ($3.65 billion).*
+- *$538 million allocated – keeping UHF at the forefront as the largest CBPF globally regarding funds disbursed.*
+- *40 per cent of funds are directed to national NGOs – reinforcing* [*localization*](https://reliefweb.int/report/ukraine/ukraine-humanitarian-fund-review-small-grants-programmes-civil-society-organizations-and-volunteer-organizations-quarter-3-2023-enuk) *and making UHF the second-largest CBPF for national partner engagement.*
+
+**Explore the UHF Data Hub and see the impact in real-time:** [bit.ly/UHFDataHub](http://bit.ly/UHFDataHub).
+
+*For more information, please contact OCHA Ukraine: Humanitarian Financing Unit, ocha-UHF@un.org*

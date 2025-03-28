@@ -1,0 +1,26 @@
+Norwegian research foundations develop new technology for studying war crimes against Ukraine
+
+The research project, named “Recording Explosive Munitions for the Analysis of War Crimes” (REMWAR), aims to determine under which conditions Russian troops engage in illegal attacks on civilian targets in Ukraine.
+
+“By combining PRIO experts on conflict event data analysis with the forces of NORSAR experts in remote sensing, we will have a team of scientific excellence that can have a meaningful impact. Together, we will work to make peace more stable and war less inhumane,” PRIO Director Henrik Urdal said.
+
+## **Novel tools for measuring combat exposure**
+
+Using its expertise in automatic event detection via seismic and acoustic detection, NORSAR has developed advanced tools for measuring combat-related explosions.
+
+“NORSAR has long-term experience in the global monitoring of nuclear tests. Now, we can use our technology for yet another important cause, researching war crimes in the biggest armed conflict in Europe since World War II,” said Anne Strømmen Lycke, CEO of NORSAR. PRIO and NORSAR have collaborated for many years. In 2023, NORSAR achieved a methodological breakthrough by demonstrating that the same sensor technologies that are used for detecting violations of the Comprehensive Nuclear Test Ban Treaty could also detect conventional explosions in Ukraine.
+
+The project, which was unveiled at a seminar today at the Nobel Peace Center in Oslo, has received NOK 12 million (approximately USD 1 million) for a three-year period from the Research Council of Norway. The investigation will be ongoing throughout 2025, and the first data findings are expected to be published early next year.
+
+## **Solving three problems**
+
+PRIO is building a database with frontline data, conflict event data, and locations of critical and protected infrastructure. The project will use its technological capabilities to provide unprecedented insights into an ongoing war, aiming to solve three problems:
+
+- Understanding when and where intentional attacks on civilians are most likely, to help prevent atrocities.
+- Identifying biases in both traditional conflict data and NORSAR’s event detections, to build a more comprehensive picture of the war in Ukraine.
+- Advancing the technology for use in monitoring future ceasefire agreements, mapping unexploded munitions, and detecting strikes on protected or civilian infrastructure.
+
+## **For more information, please contact:**
+
+- Michelle Delaney Communication Director in PRIO +47 941 65 579 michelle@prio.org
+- Anne Strømmen Lycke CEO of NORSAR +47 977 94 966 anne.lycke@norsar.no

@@ -1,0 +1,29 @@
+Update 17 - IAEA Director General Statement on Situation in Ukraine (10 March 2022) [EN/RU]
+
+Ukraine informed the International Atomic Energy Agency (IAEA) that it had lost today all communications with the Chornobyl Nuclear Power Plant (NPP), the day after the Russian-controlled site lost all external power supplies, Director General Rafael Mariano Grossi said.
+
+The Director General said that the Agency is aware of reports that power has now been restored to the site and is looking for confirmation.
+
+Earlier in the day, the Ukraine regulatory authority had told the IAEA that emergency diesel generators were providing electricity to the Chornobyl NPP. The subsequent loss of communication meant that the regulator could no longer provide updated information about the site to the IAEA.
+
+According to the information received before the loss of communication, both of the site’s power lines had been damaged, in effect disconnecting it from the grid, the Ukraine’s regulatory authority said. To ensure continued power, these lines would either need to be repaired or the generators holding fuel for two days would require additional diesel deliveries. The diesel generators were powering systems important for safety, including those for spent nuclear fuel and water control and chemical water treatment, the regulatory authority said, adding that the operator was not able to maintain some functions such as radiation monitoring, ventilation systems, and normal lighting.
+
+Nevertheless, as reported in [Update 16](https://reliefweb.int/node/3825551), the disconnection from the grid will not have a critical impact on essential safety functions at the site, where various radioactive waste management facilities are located, as the volume of cooling water in the spent fuel facility is sufficient to maintain heat removal without a supply of electricity.
+
+The regulator further confirmed this assessment, stating that the safety analysis report for the site’s spent fuel storage facility concluded that there would be “no impact on essential safety systems” in the case of a total loss of power, including electricity provided by emergency sources such as diesel generators. Furthermore, the operator has also been able to confirm that there are no damages in the structures and systems of the spent fuel storage pool, and their original functions are maintained.
+
+If emergency power was also to be lost, the regulator said it would still be possible for staff to monitor the water level and temperature of the spent fuel pool. But they would carry out this work under worsening radiation safety conditions due to a lack of ventilation at the facility. They would also not be able to follow operational radiation safety procedures.
+
+The Director General has expressed alarm about the deteriorating and exhausting conditions for staff at the Chornobyl NPP, who have not been able to rotate since the day before Russian forces took control on 24 February. He has said this is also compromising a vital safety pillar, which states that “operating staff must be able to fulfil their safety and security duties and have the capacity to make decisions free of undue pressure”. Further adding to the stressful situation is the total loss of communication. The site had earlier been able to communicate with the regulator by email.
+
+Regarding the status of Ukraine’s operational nuclear power plants, the regulator said eight of the country’s 15 reactors remained operating, including two at the Zaporizhzhya NPP, three at Rivne, one at Khmelnytskyy, and two at South Ukraine. Radiation levels at the four sites were normal, it said.
+
+The Zaporizhzhya NPP site power supply situation is unchanged from that reported in [Update 16](https://reliefweb.int/node/3825551). The site has four high voltage (750 kV) offsite power lines plus an additional one on standby.  Two of the four have been damaged and therefore currently there are two power lines, plus the one on standby. The operator informed the IAEA that the NPP off-site power needs could be provided with one power line available. Furthermore, diesel generators are ready and functional to provide back-up power.
+
+However, in another challenge for the same plant, it was not currently possible to deliver necessary spare parts, equipment and specialized personnel to the site to carry out planned repairs, and maintenance activities at Unit 1 had been reduced to the minimum level required by the plant operational procedures.
+
+The Director General also said that the IAEA is in contact with Ukraine authorities regarding radiation monitoring systems in Ukraine.
+
+Regarding the loss of remote data transmission from the safeguards systems installed to monitor nuclear material and activities at the Chernobyl NPP and Zaporizhzhya NPP, reported in [Update 16](https://www.iaea.org/newscenter/pressreleases/update-16-iaea-director-general-statement-on-situation-in-ukraine), the IAEA has not been able to re-establish communication with those installed monitoring systems.
+
+Director General Grossi today held talks with the Foreign Ministers of Ukraine and the Russian Federation - Dmytro Kuleba and Sergei Lavrov – in Antalya, Turkey. He held a [press conference ](https://www.youtube.com/watch?v=ASGuxJgya3c)upon his return to Vienna.

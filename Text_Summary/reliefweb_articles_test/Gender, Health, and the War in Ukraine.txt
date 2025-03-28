@@ -1,0 +1,67 @@
+Gender, Health, and the War in Ukraine
+
+**Women and girls face increased levels of gender-based violence and interruptions to maternal health care, among other grave risks.**
+
+*By Andrew Schroeder*
+
+Today, multiple press reports are [confirming that a Russian missile struck a maternity and children’s hospital in the city of Mariupol, Ukraine](https://www.bbc.com/news/world-europe-60675599). Staff and patients, including children, appear to be trapped under the rubble, and total casualty numbers are unknown.
+
+In addition to the obvious human rights violations of deliberately targeting a maternity and children’s hospital, the attack highlights several gendered risks facing civilians in the Ukraine crisis. At such a moment, it’s essential to think about the role that gender and health play in conflict situations, and how best to respond to related needs.
+
+**DEMOGRAPHICS IN UKRAINE**
+
+Prior to the war, Ukraine had a demographic profile that was highly skewed by gender: The overall population was composed of 54% women to 46% men.
+
+That gendered disparity gets even wider when looking at the upper ends of the age distribution. Whereas the number of younger people in Ukraine leans slightly male, there is an extreme lean towards females in people above age 45.
+
+By far the greatest disparity occurs between men and women in their 70s and 80s. Ukrainian men tend to live shorter lives than Ukrainian women, which is reflected in the proportion of men and women over the age of 70 in the country. On average, women tend to outlive men in Ukraine by about 10 years.
+
+**DISPLACEMENT**
+
+The refugee evacuations from Ukraine have likely altered this demographic picture somewhat. Of the 2 million people who have fled the country since the war started, roughly half are children under the age of 18, and men between the ages of 18 and 60 are essentially not permitted to leave the country, given the needs of the Ukrainian war effort.
+
+Men are far more likely to experience traumatic injuries because of combat, while women are more likely to face a host of other health risks and vulnerabilities. In part due to the highly skewed gender distribution of the Ukrainian population, the best current estimates from the U.N. High Commissioner for Refugees indicate that, prior to the conflict, nearly 60% of internally displaced persons within Ukraine were female. This surely continues to be the case today, and the number has likely increased somewhat during the conflict.
+
+As a result, it is entirely reasonable to suggest that the health needs of displaced persons, whether they are in Ukraine or have fled the country, represent the needs of women to a great degree.
+
+**NON-COMMUNICABLE DISEASES**
+
+In addition to the issues of maternal health and gender-based violence, discussed below, it’s important to understand the problem of gendered differences in the incidence and risk factors of non-communicable diseases like diabetes, obesity, and hypertension. Differences in exposure to non-communicable diseases account for a significant amount of the overall gendered population disparity.
+
+For example, the World Health Organization published a report in 2020 on non-communicable diseases in Ukraine, looking in part at disparities in risk factors such as smoking, diet, physical activity, obesity, and blood pressure. Here’s what the gender distribution looks like by age group for men and women – specifically, their likelihood of having three or more significant risk factors:
+
+These risk factors tended to be somewhat more extreme for women and men in urban versus rural areas. Differences by income were minimal, and middle-aged men had higher rates of alcohol consumption. However, the main difference is that Ukrainian men tend to die of non-communicable diseases at an earlier age than women do. Older Ukrainian women tend to live with the consequences and higher incidence of non-communicable diseases.
+
+**MATERNAL HEALTH**
+
+Over the past 20 years or so, Ukraine has made significant progress in reducing the risks to women in childbirth. During that time, the maternal mortality ratio went from 35 to 19 people per 100,000.
+
+Access to and quality of health services increased steadily throughout Ukraine’s post-Soviet transition. The current maternal mortality rate places Ukraine at the bottom end of all countries in and around Europe, and roughly on par with the United States.
+
+According to estimates from the Cooperative for Assistance and Relief Everywhere, roughly four percent of displaced people will be pregnant women, and 15% of those women will require emergency obstetric interventions.
+
+Applying that number to the current 2 million refugees who have left Ukraine, and estimating roughly another 1 million internally displaced persons based on pre-war reports, that would mean there are currently around 120,000 displaced pregnant women in and around Ukraine, with about 18,000 in need of emergency obstetric interventions.
+
+During the conflict, however, women are disproportionately at risk of being cut off to all aspects of quality maternal health throughout the entire cycle of care. On the most extreme level, women who were in the late stages of their pregnancies when the war in Ukraine started are now giving birth while displaced. Some [have even given birth in bomb shelters](https://www.independent.co.uk/news/world/europe/ukraine-war-russia-pregnant-women-birth-shelter-b2028865.html), where they may lack not only skilled birth attendance but even the basic supplies required to give birth safely.
+
+It’s important to remember that many women in Ukraine, particularly those in eastern separatist areas, have been facing the consequences of conflict-related disruptions since 2019. The World Health Organization recommended prioritization for women in these situations as follows:
+
+-   Improving access to reproductive, maternal, newborn, child, and adolescent health services for internally displaced persons and in the eastern regions affected by the crisis;
+
+-   Increasing the capacity of health care providers working in Mobile Emergency Primary Units by updating and organizing trainings with the inclusion of maternal and child health modules; and
+
+-   Strengthening services in emergency triage assessment and treatment of children.
+
+These recommendations continue to apply in the current situation and should expand in scope relative to the size of the conflict-affected population.
+
+Likewise, conflict tends to sharply reduce access to sexual and reproductive health services, while increasing women’s exposure to gender-based violence.
+
+**GENDER-BASED VIOLENCE**
+
+According to a 2019 study by UNFPA, [roughly 75% of Ukrainian women reported having experienced some form of violence prior to age 15, with 30% reporting direct physical or sexual violence](https://eeca.unfpa.org/en/publications/well-being-and-safety-women?_ga=2.8081201.220554671.1646062129-58387694.1642436549).
+
+During situations of conflict and displacement, the risk of gender-based violence tends to increase dramatically. According to a 2020 Amnesty International report, [Ukraine saw a severe increase in reports of domestic violence in separatist areas in 2018: 76% in the eastern region of Donetsk and 158% in Luhansk](https://www.amnesty.org/en/latest/news/2020/11/ukraine-epidemic-of-violence-against-women-in-conflicttorn-east/). These types of statistics are quite common in wartime situations, with reports of general violence against women, including rape and other forms of sexual abuse, increasing significantly.
+
+Likewise, reports by [UN Women](https://www.unwomen.org/en/news-stories/op-ed/2022/03/op-ed-what-does-the-military-offensive-in-ukraine-mean-for-women-and-girls), Human Rights Watch, Amnesty International, and others prioritize a focus on the human trafficking of women and girls, specifically as a result of forced displacement. This is because people tend to end up in difficult and insecure living situations over long periods of time due to conflict.
+
+Ukraine is, of course, not unusual – every conflict sees these trends of disproportionate exposure to risks for women and girls. But because of the scale of the Ukraine crisis, which has already displaced millions, it is essential to prioritize gender as a lens through which to view the health impacts of the war.

@@ -1,0 +1,48 @@
+Analyzing the Scale of Ukraine’s Destruction
+
+**An update on civilian casualties, health care attacks, infrastructure damage, and more.**
+
+*By Andrew Schroeder*
+
+**CIVILIAN CASUALTIES, INFRASTRUCTURE DAMAGE, AND ATTACKS ON HEALTH CARE**  
+
+As of March 20, the official civilian casualty totals from the United Nations included 902 deaths and 1,459 injuries. As usual, these numbers are a significant undercount, based upon the difficulty of receiving confirmed information from areas with active ongoing combat. **Civilian casualties have been almost entirely confirmed according to the results of combat, and do not reflect elevated mortality because of losses to health care or other systems disruptions.** According to UNHCR, “Most of the civilian casualties recorded were caused by the use of explosive weapons with a wide impact area, including shelling from heavy artillery and multiple-launch rocket systems, and missile and air strikes.”
+
+**Remote sensing of the most damaged areas of Ukraine is starting to tell a compelling picture of the scale of destruction** to residential neighborhoods, critical infrastructure including health care, transportation corridors, schools, shopping areas, and recreational buildings including theaters. Satellite image analysis from UNOSAT, the United Nations satellite mapping agency, highlights the extraordinary impact of missile attacks and shelling on the city of Mariupol, where roughly 80% of residential infrastructure has been damaged to some degree. Mariupol has been the scene of some of the most highly visible recent attacks, including the missile attack on a maternity hospital and another on a theater where civilians including children were sheltering.
+
+The team at REACH has concluded an initial analysis of nighttime lights imagery in order to understand the change in urban settlements which remain illuminated at night and therefore demonstrate some reasonable level of continuous occupancy and activity. Power outages are a constant problem in Ukraine at the moment, so some of this analysis may reflect evacuations, displacement, and damage, while some reflects higher rates of power outage even if buildings may be occupied. **The nighttime lights analysis shows drastic reductions in luminosity throughout the outskirts of Kyiv, almost total darkness at night throughout most of Kharkiv and Kherson, and significant changes even in the relatively less affected western Ukrainian city of Lviv.**
+
+The other crucial ongoing issue related to civilian infrastructure involves the ongoing drumbeat of attacks on health facilities. **The World Health Organization currently estimates that there are roughly two missile or shelling attacks on health facilities every day in Ukraine.** Their official count now includes 62 attacks on hospitals or other health facilities including ambulances since the war began, which have resulted in 52 casualties including the deaths of 15 health workers. These numbers are drastically lower than the government of Ukraine’s own tally given the WHO’s rigorous verification process. Deliberate targeting of civilian health infrastructure is considered a war crime under the Geneva Conventions.
+
+**REFUGEES AND INTERNALLY DISPLACED PERSONS**
+
+The refugee and internal displacement crisis from and within Ukraine has moved with unprecedented speed and scale. **Although the war is less than one month old the fighting has already produced a total of roughly 10 million displaced persons, which is nearly one-quarter of the entire population of Ukraine.** As of March 20. UNHCR estimates there are nearly 3.5 million total Ukrainian refugees. The rate of border crossings continues to decline daily, however, with a steady reduction in the numbers entering neighboring countries ever since the peak daily crossing of 209,000 people on March 6.
+
+Refugee services are being established throughout the surrounding countries in the region. New data from UNHCR highlights the locations and type of refugee reception and accommodation centers now established across eastern Europe. The disproportionate share of facilities have been established on the borders between different countries, **with Romania as the most extreme example perhaps, without any recorded refugee facilities in the interior.**
+
+While Poland continues to house most Ukrainian refugees, there is now clear evidence from a variety of sources that **diffusion of refugee populations is occurring throughout most of the European Union.** A recent draft report from Meta (Facebook) which looks at the dispersion of people with an origin point in Ukraine found that **Germany and the Czech Republic have seen the second and third most arrivals in total, with significant flows also occurring to countries such as Italy, France, and Turkey.** Note that the numbers in the data from Meta may vary from the official counts and should be understood in conjunction with official numbers to add context and perspective.
+
+Recent work from the International Organization for Migration (IOM) on internal displacement within Ukraine has **drastically revised upward the numbers of displaced to more than 6.5 million people**.
+
+While most internally displaced persons (about 40%) are in the western region of the country, there is no part of Ukraine that does not currently contain a significant number of displaced persons. While current estimates show almost 2.6 million displaced in the west, each of the north, central, east, and south regions contain over 1 million displaced persons. Key health issues for displaced persons include lack of adequate food, water, and sanitation, exposure to extremely cold temperatures, disconnection from medical services, lack of access to medications, as well as high levels of stress, anxiety, and mental trauma.
+
+**NON-COMMUNICABLE AND INFECTIOUS DISEASES: FOCUS ON TUBERCULOSIS**  
+
+**Ukraine has one of the most severe problems with tuberculosis and multi-drug resistance tuberculosis of any country.** Roughly 32,000 new cases of active TB infection occur in Ukraine annually. According to a recent article in the journal Nature, there is already [considerable concern among health professionals that [**many TB patients have been forced to flee with a limited supply of medications**](https://www.nature.com/articles/d41586-022-00748-6) **and limited or no ability to re-supply their medications or to comply with basic directly observed therapy (DOTS) protocols.** As quoted in the Nature article:
+
+“Any interruption of treatment will lead to drug-resistant TB, including MDR TB,” Ditiu says. “After 5 years without treatment, 50% of people with pulmonary TB can die. Meanwhile, you infect many others around you.” And if you interrupt treatment for MDR TB, she says, “it is possible to develop extremely drug-resistant TB, where there are few drugs that work”.
+
+Prior to the war there was already significant evidence of artificially low rates of tuberculosis diagnosis in Ukraine, largely attributed to the confounding effect of Covid-19 which also showed up as severe respiratory infection. The combination of under-diagnosis, displacement due to the conflict, disruption of access to replenished drug supplies, and the lack of capacity to follow standard treatment protocols is **dramatically raising risks that active TB patients will develop more severe forms of the infection, leading towards serious health complications and even death, while becoming increasingly infectious to those around them**.
+
+**MATERNAL, NEWBORN, SEXUAL AND REPRODUCTIVE HEALTH**  
+
+According to the World Health Organization, as of March 18 there have been 4,300 births in Ukraine since the start of the war, which averages out to roughly 1,400 births per week. As increasing pressure mounts through the combination of the destruction of civilian infrastructure, attacks on health facilities like the bombing of the maternity hospital in Mariupol, disruption of transportation, and widespread displacement, **risks to deliveries particularly for those that require surgical interventions, as well as risks to newborn health in terms of nutritional support, clean water, and mitigation of infectious diseases, will continue to rise.**  
+
+In addition to safe delivery services, including emergency obstetric care, the Interagency Working Group on Reproductive Health in Crises through the United Nations [places special emphasis on the **need to ensure safe access to reproductive health and contraception** as part of the Minimum Initial Service Package](http://%28https//iawg.net/resources/minimum-initial-service-package-distance-learning-module) during emergencies.
+
+This includes:    
+- Ensuring availability of a range of long-acting, reversible and short-acting contraceptive methods (including male and female \[where already used\] condoms and emergency contraception \[EC\]) at primary health care facilities to meet demand;     
+- Providing information, including existing information, education, and communication materials, and contraceptive counseling that emphasizes informed choice and consent, effectiveness, client privacy and confidentiality, equity, and nondiscrimination; and   
+- Ensuring the community is aware of the availability of contraceptives for women, adolescents, and men.
+
+As is the case in most emergencies, whether as a result of conflict or disaster, **the most effective delivery system for basic health interventions which save the disproportionate share of lives occurs in primary care settings.** Sexual and reproductive health care is no different in this regard, which makes it even more essential to minimize attacks on civilian health services and ensure access to primary care as well as hospital services.

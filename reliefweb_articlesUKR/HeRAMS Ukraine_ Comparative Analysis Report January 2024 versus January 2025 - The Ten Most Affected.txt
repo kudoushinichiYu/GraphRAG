@@ -1,0 +1,7 @@
+HeRAMS Ukraine: Comparative Analysis Report January 2024 versus January 2025 - The Ten Most Affected Oblasts [EN/UK]
+
+The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
+
+HeRAMS has been operational in Ukraine since November 2022. This report presents a comparative analysis of health infrastructure across Ukraine's ten most affected oblasts, examining changes from January 2024 to January 2025. It highlights changes in service availability across various health domains, including trauma care, child health, communicable diseases, sexual and reproductive health, maternal and newborn care, noncommunicable diseases, and mental health support.
+
+The analysis covers oblast and raion levels, providing granular insights into affected territories. As this HeRAMS deployment is ongoing, including data verification and validation, the analysis presented in this report is not final and was produced solely for the purpose of informing operations.

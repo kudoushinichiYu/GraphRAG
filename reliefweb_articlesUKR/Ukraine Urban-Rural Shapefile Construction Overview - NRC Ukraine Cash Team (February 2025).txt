@@ -1,0 +1,25 @@
+Ukraine Urban-Rural Shapefile Construction Overview - NRC Ukraine Cash Team (February 2025)
+
+**Overview:**
+
+This shapefile has been developed to support the NRC Ukraine teams in spatial analysis related to humanitarian operations. It provides geographic boundaries and relevant attributes for key areas of interest in relation to urban and rural classifications, facilitating assessments, planning, and reporting. This tool is intended for general application and categorization of areas; however, errors may be present due to various factors. Shapefile found at NRC HDX page.
+
+**Usage**
+
+The shapefile is intended for use in:
+
+• Identifying targeted areas for assistance.
+
+• Analyzing the geographical distribution of needs and humanitarian interventions.
+
+• Supporting decision-making through geospatial visualization
+
+**Data Sources & Methodology**
+
+The shapefile has been compiled using:
+
+• Official administrative distinctions sourced from the Government of Ukraine (set at the settlement level).
+
+• OCHA (United Nations Office for the Coordination of Humanitarian Affairs) shapefiles from the Humanitarian Data Exchange (HDX) platform (GeoBoundaries Admin Boundaries for Ukraine).
+
+The processing followed the data was cleaned and formatted for consistency with boundaries checked and aligned with recent mapping. Updates were incorporated in accordance with the latest administrative changes, including Наказ Міністерства розвитку громад та територій України № 42 від 14.01.2025, which reclassified Красне in Берестинський район, Харківська область, from an urban-type settlement. More details are available at: [https://zakon.rada.gov.ua/rada/show/v0042945-25#Text](https://zakon.rada.gov.ua/rada/show/v0042945-25#Text). Attributes from the administrative dataset was merged to the OCHA Admin4 shapefile.

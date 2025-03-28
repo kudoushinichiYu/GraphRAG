@@ -1,0 +1,230 @@
+Mapping host countries’ education responses to the influx of Ukrainian students
+
+March 24, 2022
+
+Since the start of the war in Ukraine on 24 February, more than 3.5 million people have fled the country, with estimates suggesting that at least 1.5 million of them are children. 
+
+Every humanitarian crisis is also an education crisis. Beyond learning, education offers a protective environment that is even more relevant to crisis-affected populations, particularly children.
+
+One unprecedented factor of this crisis was the early decision by the EU to activate its temporary protection scheme allowing the millions fleeing war in Ukraine to enjoy harmonized rights. On education, EU countries shall grant access to their education system to persons under 18 years old benefiting from the temporary protection status under the same conditions as their own nationals and EU citizens. Adopted on 4 March, the directive had immediate effects and prompted a dynamic influx of refugees, with Ukrainian nationals able to move freely across EU countries. This particularity calls for increased coordination of host countries, both within and outside the EU, to assist and integrate Ukrainian learners, teachers and education staff in national education systems.
+
+As the UN agency mandated to coordinate and lead on global education, UNESCO is mapping how host countries are supporting and providing education to Ukrainian refugees. This includes transitional measures for integrating learners into mainstream education, language and curriculum considerations, psychosocial support, teacher training and accreditation, among other practical steps related to governance, registration, certification, and financial support.
+
+This exercise complements other efforts and aligns with UNESCO’s functions of serving as a clearinghouse to collect, exchange and disseminate information and knowledge. It investigates policy directions beyond EU members, thus providing a comprehensive picture of actions to support refugees’ psychosocial and learning needs. The mapping will also specify if any non-EU country relies on existing legislation for access to education or is also issuing special directives for the Ukrainian crisis.
+
+In doing so, it will allow host countries to take stock of concrete steps taken to integrate and support Ukrainian learners and teachers fleeing the war, including international students enrolled in Ukrainian higher education institutions. It is hoped to promote the exchange of good practices, facilitate common approaches and ultimately foster joint responses for the education of Ukrainian children and youth compelled to leave their country.
+
+## Methodology
+
+In a dynamic context that quickly evolves as the war continues and the influx of people on the move increases and spreads across neighbouring countries and beyond, UNESCO will adopt an incremental approach to this exercise.
+
+The data and analysis will occur in waves with an incremental number of countries, increasingly detailed content, and evolving format of how data is filtered and visualized. Information will also be regularly updated based on host countries’ new legislation, policies, and guidelines.
+
+The first wave of mapping is currently based on a desk review of the information found on host countries’ Ministries of Education websites. For countries where no information was available, alternative sources were used. For the full list of sources, please see the [methodological note](https://www.unesco.org/sites/default/files/medias/fichiers/2022/03/Ukraine-Response_Mapping-host-countries-policies_methodology-and-sources.pdf).
+
+## Initial findings and dominant trends
+
+The mapping centred around the following themes:
+
+-   Transition vs Direct mainstreaming of students
+-   Teaching and Teachers (and other education staff)
+-   Credits/Examinations
+-   Financial Resources
+-   Governance (planning, registration, support from sources external to the MoE)
+-   Information sharing
+
+The summary findings of selected themes, and information by country, are shared below. 
+
+     1. Transition vs direct mainstreaming 
+
+ This theme tackles how students will be included in the system by education level and whether students will enter directly into the mainstream educational system or go through transition classes or procedures. 
+
+Basic education/compulsory education: Many countries mention existing programmes and protocols to include foreigners in their national education systems. In Portugal, for instance, international students can enrol pre-K directly while older students get assessed and go through transition processes (either in schools or reception centres). The goal is to integrate Ukrainian students as soon as possible. As such, Portugal introduced extraordinary measures for speedy integration, including the simplification of procedures granting equivalence of foreign qualifications and insertion in a given school year and educational offer. Similarly, Belgium, Denmark, France, Lithuania, Slovakia and Spain mention ‘bridging’, ‘reception’ or ‘adaptation’ classes. These transition classes provide language classes, familiarise students with their local education system, provide counsellors for psychological support, and evaluate competencies. 
+
+As the students strengthen their language skills and get evaluated, they can be integrated, gradually, into regular classes. These transition classes are managed in specialised education centres (e.g. in Portugal and Spain) or directly inside schools (France, Lithuania, Portugal and others). In Moldova, youth centres will be providing non-formal activities, psycho-pedagogical assistance and counselling activities.
+
+Some countries offer public education with instruction in a minority language. Lithuania offers interested Ukrainian students access to national schools in Belarusian, German and Polish. In Estonia, some public schools provide instruction in the Russian language. In Romania, there are 45 schools and ten high schools offering instructions in Ukrainian. Students can enrol in those schools if they so wish, while teachers in the standard Romanian schools are encouraged to provide education in Ukrainian when they can. In Poland, given the scale of the influx, a draft law plans to create additional centres to provide education and childcare and accommodate the additional number of places needed for the education of Ukrainian children. These new centres would be organizationally subordinated to schools or kindergartens. 
+
+Some initiatives include connecting Ukrainian refugee students with distance learning options in Ukrainian. Indeed, Latvia is working to provide students with the option of distance learning in cooperation with the Ukrainian MoE as an alternative to the Latvian education system. Similarly, the Ukrainian MoE is working with Czechia to provide distance learning to students during their ‘adaptation’ period. Such initiatives help avoid learning losses and could help offer schooling options in the short term, especially for those students who hope to return to Ukraine in a few months. Indeed, countries such as Moldova, in addition to access to pre-schools, is offering Ukrainian children to enrol in ‘temporary schooling’.
+
+Pre-primary education: Protocols for access to pre-school vary from country to country, with some offering free access to all such as Estonia and Ireland, regardless of immigration status, while others such as Denmark would require payments while making financial assistance available. In case of shortages of spaces in public childcare centres or pre-schools, engaging non-state actors is a useful measure. Indeed, suppose there is no space in a municipal kindergarten for a Ukrainian child aged at least 1.5 year old. In that case, the Latvian local governments will cover the cost of sending the child to a private kindergarten.
+
+Vocational training: At the moment, many countries provide access to their vocational training centres to Ukrainian refugee students (e.g. Estonia, Ireland, Lithuania), but not many countries have shared specific directives on how such access would occur. However, Latvia specified that Ukrainian minors would not need to pass the state examination to access vocational education.
+
+Higher education: Many countries are declaring support to Ukrainian students for access to their higher education institutions (e.g. Austria, France, Hungary, Poland, Romania), as well as waiving tuitions (e.g. Austria) or offering financial support (e.g. Romania) (for more, see Finance Theme). Romanian universities are encouraged to supplement their budgeted places up to 20% of their capacity (as established by the Romanian Agency for Quality Assurance in Higher Education). Notable initiatives in France and Hungary cater to non-Ukrainian international students who escaped Ukraine. France has set up a scheme where African students that fled Ukraine can enrol in the same course of study in a French University, with over 300 African students having applied so far. Hungary is offering all international students to continue their studies at Hungarian universities regardless of their nationalities. Countries are also offering support in tertiary education by hiring or helping hire researchers from Ukrainian universities (e.g. Austria, Italy, Sweden). In Sweden, Stockholm University is offering research positions to Ukrainian researchers. 
+
+     2. Teaching and teachers
+
+The large influx of Ukrainian refugee students will pose particular challenges. Teachers will need support in facing language barriers, how to slowly incorporate the international students into a welcoming classroom, how to discuss the war, and how to provide cultural and psychological support to incoming students. Several countries MoE’s provide links for teachers to materials, training, or webinars on handling the language barrier. Italy encourages teachers to experiment with bilingual material. Slovakia lists sources to learn basic Ukrainian to their teachers while also providing examples of communication cards and games to use in class. Czechia lists translation applications to use, sources to learn the language and provides for the first days in class an ‘NPI First Rescue Box’ methodology for communication. Czech teachers can use interpreting services through NPI for more complex communication struggles. 
+
+In addition to language support, an often-mentioned measure across MoE’s websites is providing materials and direction to teachers on how to discuss the war with students (e.g. Austria, Czechia, Denmark, Germany, Greece), including webinars and podcasts (e.g. Slovakia). Links and initiatives to support teachers in dealing with children who have suffered trauma are often put in place. Croatia, Czechia, and Slovakia have handbooks on how to attend to pupils’ mental health, prevent conflict in classes, and talk about sensitive topics. In Paris, France, a Ukraine ‘crisis unit’ was created, and one of its services is to provide teachers with an online pamphlet outlining how to welcome pupils who have suffered trauma. 
+
+Another major challenge, especially in countries with a large influx of refugees, will be to find additional teachers and further support tackling the language barrier. Poland is setting up additional learning centres that will need to be staffed. Indeed, Poland is planning to facilitate the employment of Ukrainian citizens as teacher assistants. In Latvia, according to the new law on the support of civilians from Ukraine, Ukrainians have a right to work as teachers, thus bypassing regular certification of teachers, provided they teach only to Ukrainian minors (not in regular classrooms). If they want to work as a regular teacher in any Latvian educational institution, they will have to get professionally certified. In Romania, in case of teacher shortage, the MoE intends to allow students from state/private universities and retired teachers to provide teaching and school counselling. It will also allow Ukrainian professors to teach in Romanian universities. Germany and Italy specifically encouraged the peer-to-peer exchange of ideas amongst teachers. The German MoE also mentioned employment and training plans for Ukrainian teachers. 
+
+     3. Credits/Examinations 
+
+This theme covers how host countries tackle final exams, transfer of credits in higher education and teaching accreditation. This is a crucial policy area where very little information has been published on specific measures (as of now). According to a new law passed on 15 March in Latvia, minor Ukrainian civilians are not required to pass state examinations in basic education or vocational education (except for the professional qualification examinations). Particularly, pupils from grades 1-8 and 10-11 can be transferred to the next class without conditions, with the right to study again in the same class. Ninth and 12th grade students who pass relevant examinations and fulfil requirements will be issued an educational document (certificate, attestation or diploma). If a student does not meet these requirements, they have the right to re-study in the same class. Romania issued a ministerial order on 2 March on higher education student mobility. All those who wish (i.e. Ukrainian refugee students) can register to the higher education institution of their choice. If they cannot prove with documents their previous studies, higher education institutions will evaluate these students based on their institutional criteria and by respecting international good practices. Afterwards, higher education institutions can decide on granting transferable credits, thus allowing students to continue their studies. However, before finalising their studies, Ukrainian students are expected to present the diplomas that allowed them to register for a certain cycle of studies. 
+
+     4. Financial Resources
+
+This theme focuses on financial measures taken by governments to support the education response (for example, extra-budgetary allocation) as well as financial support provided directly to students. In terms of special additional funding, countries such as France, Italy, Poland, and Romania are allocating extra-budgetary sources to the sector. In Italy, €1 million will be used specifically to include Ukrainian students in national education systems. It should cover extra support needed by students, including materials, linguistic and cultural mediation, and psychological support. In Romania, both state and private K-12 and higher education institutions will receive subsidies to accommodate the additional number of students. In Slovenia, specific expenses such as those related to the recognition and evaluation of education for persons granted international protection are covered by the Government Office for the Care and Integration of Migrants. In the UK, local authorities will receive £10,500 in extra funding per refugee for support services, with more for children of school age. The French government launched a €1 million support fund for Ukrainian refugee artists and arts professionals forced to leave the country following the Russian invasion, of which €300,000 to enable Ukrainian students to enrol at colleges and organizations overseen by the Ministry of Culture.
+
+In terms of financial support directly to students, most measures focus on students in higher education. Austria has waived the tuition fees for Ukrainian university students currently enrolled in Austrian higher education institutions. The MoE also provides links to funding sources such as emergency funds, fundraising, and benefits concerts. In Lithuania, depending on the institution’s capacity, studies for Ukrainian citizens will be sponsored. Some institutions are planning to waive fees or offer significant discounts. Bulgaria is also offering a reduction in tuition fees for over 1,000 Ukrainian students currently studying in Bulgaria, and dormitory fee exemptions are being discussed. In Denmark, access to day-care will not be free, but financial aid and subsidies will be provided to families. Some countries provide support in earlier education, such as Romania, where Ukrainian students can be accommodated free of charge in boarding schools, will receive food allowance and bedding, and living and study items. 
+
+## Summary of host countries education responses (as of 22 March 2022 based on desk review)
+
+*Initial mapping covering 29 countries*
+
+Austria
+
+All universities have implemented support for Ukrainian students, researchers, and artists, including simplified admission conditions, flexible leave of absence processes, and access to counselling. Tuition fees for some 2,700 Ukrainian students who are currently enrolled in Austrian universities have been waved and financial support for Ukrainian higher education students, researchers and artists is being raised. The Austrian ENIC-NARIC will be carrying out the evaluation and nostrification of foreign certificates, supporting displaced Ukrainians with academic qualifications by fast-tracking and prioritizing their applications for recognition. At compulsory education levels, the MoE is providing teaching resources on the conflict and has set up a school counselling hotline in both Ukrainian and Russian. The Agency for Education and Internationalization (OeAD) collected a wealth of information to support the education sector, including teaching materials for teachers and compact information on the Austrian education system in German and Ukrainian.
+
+Belgium
+
+Access to compulsory education is free and open to all children between 6 and 18, including children seeking asylum. The Asylum and Migration Ministry states that anyone entering Belgium from Ukraine will immediately have access to education with an adapted course and teaching methods while attending ‘reception’ classes (Befr) or ‘bridging’ classes (Benl). Additionally, introductory language classes are being organized for newly arrived children who will be integrated into regular classes when appropriate.
+
+Bulgaria
+
+The Minister of Education and Science believes the influx of students will not overstrain the teaching force. The education system can currently absorb some 20,000 Ukrainian learners, and the Government is preparing for a scenario in which 100,000 children arrive. Children enrolled in schools will have additional classes in Bulgarian, and access to psychological support. Aids and materials to support teachers developed by the UNHCR have been published on the MoE’s website and further training on how to include Ukrainian students will be provided. The Government is also exploring the possibility of reducing the education and accommodation fees of over 1,000 students currently enrolled in Ukrainian universities. 
+
+Croatia
+
+The Government plans to help learners integrate into primary and secondary school by providing access to Croatian language courses without exams while simultaneously admitting them into regular classes, based on their abilities. Final grades and certificates will be issued at the end of the school year. Students who do not possess documentation on their previous schooling will be enrolled into the correct level based on their parents’ testimony.
+
+The MoE also provides guidelines on creating an enabling learning environment in the classroom and broader school environment such as the importance of providing psychosocial support in schools, the need for teachers to use learning activities to enable the inclusion of refugee students and the need to sensitize the wider school body on the crisis to promote tolerance.
+
+Cyprus
+
+The Government plans to help students integrate by offering psychological support and Greek language classes. An individualized learning plan will be developed based on the needs and competences of the child. To address the language barrier in classes, the Government is considering hiring teachers or students who speak Ukrainian or Russian or foster peer-mentoring. In addition, the Government underlines the importance of not bullying Russian students.
+
+Czechia
+
+The Government of Czechia estimates that the education system can integrate some 100 000 children. The integration of Ukrainian refugee students into the education system will gradually occur through three steps. The first step will be for children to acclimate to their new environment and receive mental health support. Next, during an adaptation period, children will be enrolled in leisure activities in peer groups to help them learn the Czech language. In parallel, children will receive distance education following the Ukrainian curriculum, in collaboration with Embassy of Ukraine to Czechia and the NGO Children of Ukraine. Subsequently, admission to pre-primary or primary and secondary schools will be considered with preference in institutions that have experience teaching learners with different mother tongues and as long as the child has not experienced acute trauma. When the new school year starts, school will accept Ukrainian students by law. To support schools, the National Pedagogical Institute has launched a website with information on how to include Ukrainian students into classes, including those who do not speak Czech.
+
+In parallel, the collaborative project between the Czech and the Ukrainian governments is also delivering teaching materials and textbooks from Ukraine to the participating schools. The project, which will aim to support children’s transport to schools, has already opened five classes in Prague for approximately 100 children. The project is also setting up a database of Ukrainian teachers and Czech volunteers. In addition, the Government announced that it would allocate CZK 150 million to support Ukrainian higher education students.
+
+Denmark
+
+Municipalities oversee the enrolment of children into primary and secondary education. Students will have access to Danish language lessons. Knowledge of Danish is needed to be admitted to both upper secondary and vocational schools. Additional pre-requisite for admission to vocational schools are the Folkeskole’s final examination, with minimum grades. The institution will assess whether a foreign exam is acceptable. The MoE is providing various resources and videos on how parents and teachers can talk to children about the crisis. In addition, work is underway to allow those on tourist visas to enrol children into day care and while access to day-care will not be free, financial aid is in place. Only Ukrainian unaccompanied minors can access after-school activities and vocational training for free. Ukrainian students could join a private school, especially if it offers bilingual teaching. If an agreement is reached between the school and municipality, the latter will cover the costs.
+
+Estonia
+
+Access to pre-primary and compulsory education is free and open to all. If learners complete their basic education they will have access to secondary education, vocational training, as well as higher education. For basic education, parents will be able to choose whether their child is taught in Estonian or Russian. The MoE has provided information and resources to support teachers, while the Education and Youth Board provides trainings on how to support students who do not speak Estonian and those who are traumatized in a classroom. The MoE is also mapping teachers from Ukraine, with the support of the local Ukrainian community and the Unemployment Insurance Fund.
+
+The competent authority for assessing the qualifications of Ukrainian refugees without educational documents or with partial documents is the Estonian ENIC-NARIC Centre, in line with the Lisbon Recognition Convention. 
+
+Finland
+
+In Finland, municipalities are encouraged to provide early childhood education for children in temporary protection. Some Ukrainian refugee children have already joined day-care groups and schools. Social services are ready to offer psychological help, and sports clubs have shown willingness to open doors without charge. Municipalities are also encouraged to provide basic education for all Ukrainian children residing in the municipality, regardless of immigration status. The Ministry highlights the importance of minimizing learning interruption of children who have fled Ukraine. In municipalities that have not previously provided education for students with an immigrant background, the Ministry recommends the initiation of preparatory education with regional and inter-municipal cooperation. In higher education, the state will cover expenses of about 2,000 Ukrainian university students interested in continuing their studies in Finland. Students at the University of Eastern Finland could also apply for grants from a €100,000 fund and transportation has been made free for Ukraine passport holders.
+
+France
+
+The French Interior Minister declared that they would accommodate some 100,000 refugees. At first, Ukrainian children will go to local schools and be put in reception classes adapted to non-French speaking students. Following an evaluation of their level in French and mathematics, they can integrate in standard classes.  Teachers who welcome children or teenagers arriving from Ukraine can follow the comprehensive Magistère training course on Eduscol.
+
+At the local level, Paris is setting up a scheme to integrate children in the school system and offer them free school meals and psychological support. Parents are being supported on how to enrol their children in school and teachers are being supported with resources on how to welcome learners who have suffered trauma.
+
+Regarding higher education, France is supporting Africans whose studies in Ukraine were disrupted by enabling them to continue their studies at a French university. So far, 300 African students have applied to take part in the scheme. In addition, the Government is launching a €1m support fund for Ukrainian artists, €300,000 of which will go towards enabling Ukrainian students to enrol in institutions in France.
+
+Germany
+
+A platform for Ukrainian post-secondary students and scientists has been created to help them continue their studies or research. In addition, the MoE offers employment and/or training for Ukrainian teachers. It is providing teaching resources on the conflict and also encourages peer-to-peer sharing of best practices among teachers and schools. Access to compulsory schooling for refugee children is regulated differently in each federal state. In most states, special reception classes will be set up which will offer students German classes.  
+
+The EU Equal Treatment Office provides advice on teaching in German, English, Polish, Hungarian and Romanian. In addition, Ukraine is already a member of the Bologna Process which means that studies undertaken in Ukraine are recognized in Germany.
+
+Greece
+
+Greece is aiming to set up a European Action Group to support the education of Ukrainian learners. In parallel, the Institute of Education Policy is encouraging teachers to explore concepts such as war and peace, conflict prevention, international law, human rights, and solidarity in the classroom and is supporting teachers by making related teaching resources available. Ukrainian refugee children are currently being admitted into Greek schools in reception classes.
+
+Hungary
+
+The Government says the state institutions are prepared to welcome refugees with children being offered places in creche, kindergarten, or school. Regarding higher education, selected universities are supporting Ukrainian students, as well as non-Ukrainian refugees that fled the country, to continue their studies in Hungarian universities and are offering them financial aid.
+
+Ireland
+
+Once a Ukrainian refugee is granted Temporary Protection under the EU Directive, they are entitled to seek employment or self-employment and vocational training education activities in Ireland. Ukrainian teachers will be fast-tracked through the registration process to allow them to teach in Irish classrooms.
+
+Ukrainian children and youth will have access to two years of free pre-school, as well as general education. Efforts are being made to ensure a family-centred approach across schools and to support adults and children learn English. As for higher education, the Government expresses the need to ensure refugees can access higher education. The sector has agreed to provide places for Irish students who have had to leave Ukraine in the middle of their studies.
+
+Italy
+
+The Government encourages peer education and peer-to-peer sharing of best practices among teachers and schools as well as using bilingual or mother-tongue learning material. The MoE is allocating a €1 million financial package to affected schools providing bilingual learning materials, linguistic and cultural mediation and psychological support.
+
+Latvia
+
+Thanks to a law passed in March, every child who has arrived from Ukraine will receive education in Latvian or in a minority language at pre-school and primary level and do not need to pass state examinations.
+
+For pre-school level, if there are not enough spaces in local public kindergartens for a child over 1.5 years, the child can enrol in a private kindergarten for free. For basic education, an individual curriculum will be developed for each child to meet their needs, such as counselling, speech therapists, Latvian language support and Ukrainian language lessons when possible. The MoE stated that children would learn in Latvian incrementally and is planning to provide teaching materials to support this. In addition, Latvia is working to provide the option of distance learning in cooperation with Ukraine, based on parents’ preferences.
+
+Minors have the right to continue their previous vocational education. Ukrainians have a right to work as teachers to Ukrainian minors. To work as a regular teacher, Ukrainian will need to get certified.
+
+Lithuania
+
+Children should be enrolled in schools without delay to help families settle in. Newly arrived students will be supported with a tailored education plan based on their needs and will be gradually integrated into the mainstream system. Students will learn Lithuanian individually, in addition to classroom teaching. Upon request, Ukrainian can be recognised as a second foreign language, which is taught in schools from sixth form. Students can also elect to enrol in national minority-language schools including Russian-, Belarusian-, Polish- and German-speaking schools.
+
+Ukrainians who were enrolled in vocational training in Ukraine can enrol in one of 56 vocational institutions and depending on capacity, studies will be sponsored or discounted.
+
+Luxembourg
+
+Ukrainian children under the age of 18 have the right to access the education system under the same conditions as Luxembourg nationals. The education of Ukrainian refugee children will be organized through international public schools, who are setting up English-speaking reception classes. Once ready, the children will join a regular international class. When appropriate, the child will also be taught either German or French. In exceptional cases, students may directly join a regular international class. Depending on demand, children may also be admitted to local municipal schools and will attend induction courses in German or French. For children of pre-school age, parents will be offered the possibility to register their children at a local primary school. In parallel, the Government is recruiting additional English-speaking teaching staff and is also recruiting Ukrainian speakers to support learners in the classroom.
+
+Malta
+
+Beneficiaries who are granted international protection shall have access to free compulsory state education up to the age of 16. Several initiatives to integrate migrant children are already in place. The MoE promotes the inclusion of newly arrived learners into the education system and supports basic language learning.
+
+The existing ‘I Belong’ Programme offers English and Maltese language courses and basic cultural and societal orientation. After secondary school, students may enrol in post-secondary education.
+
+Moldova
+
+Children will have access to extracurricular activities, psycho-pedagogical support and counselling or non-formal activities in Youth Centres. All teachers, staff in educational institutions and students are called upon to create a welcoming climate for refugee children, to support integration.
+
+An Action Plan in response to the refugee crisis in Ukraine was discussed among education working group (coordinated by the Ministry of Education and Research, UNICEF and UNHCR), including proposals of training teachers in Moldova and Ukraine to organize formal and non-formal activities for refugee children, providing computers and other necessary teaching materials.
+
+Netherlands
+
+The government states that all Ukrainian children 18 and under have to attend school and aims for all refugees under 27 to obtain a basic qualification. There are also training opportunities for refugees. The municipality of Amsterdam started setting up psychological care, daytime activities, education, and support to gain employment.
+
+Poland
+
+Access to pre-primary and compulsory education is free and open to all up to the age of 18, regardless of their legal basis of the pupil’s stay in Poland. The Government states that a draft law on assistance to Ukrainians fleeing the war is currently being processed. The Government has prepared information for parents of children coming from Ukraine on how to enrol a child in school and what rights their children have and has launched a helpline for Polish citizens studying in Ukraine and for Ukrainians coming to Poland.
+
+Currently 75,000 children of Ukrainian refugees are already in Polish schools, 10% of them in preparatory departments, 90% of them in classes together with Polish children. It is estimated that there will be around 700,000 students from Ukraine who can apply to schools.
+
+To support incoming learners, the Government plans to create additional capacity for teaching and create new educational and child-care centres that would be organizationally subordinate to national schools and kindergartens. The Government has also provided schools with information on offering psychological and pedagogical support and on how to talk to students openly about the crisis. Local governments have received funds to organize additional classes in psychological and pedagogical assistance. These funds will allow schools to offer some 3 million additional hours of classes for students. Textbooks on teaching Polish as the foreign language have also been made available. To support education, the Government will ease rules on teacher overtime to accommodate additional students and will make becoming a teaching assistant more accessible so that Ukrainians can support learners in the classroom.
+
+As part of the government programme ‘Solidarity with Ukraine’, in 2022, higher education students and doctoral students will be able to continue their studies in Poland and conduct work related to dissertations.
+
+Portugal
+
+The Government aims to integrate Ukrainian students as soon as possible. The Government plans to simplify the process of granting equivalence of foreign qualifications, supporting Portuguese language learning, and offering new arrivals with support in schools and in reception centres by a team made up of specialized teachers, psychologists, social workers, and interpreters. At the tertiary level, many higher education institutions offer courses taught in English as well as intensive courses in Portuguese for foreigners.
+
+Romania
+
+The Ministry of Education stated on 4 March 2022 that Ukrainian students can register in Romanian compulsory education schools as ‘auditors’ and once study equivalence procedures are completed, the auditors can be transformed into ‘students’.
+
+In Romania, 45 primary schools and ten high schools operate in Ukrainian. Teachers, including retired teachers, are encouraged to teach in Ukrainian, while students can also benefit from Romanian language lessons. Private schools have prepared 160 centres able to accommodate 1,300 children where they will benefit from psycho-social support and Romanian language lessons. What is more, students from Romanian universities and retired teachers will be able to provide teaching and counselling activities.
+
+Pre-primary, basic and higher education institutions will receive subsidies to accommodate students. Ukrainian students will benefit from free accommodation in boarding schools, food allowance, clothing, footwear, textbooks etc. Higher education institutions are encouraged to increase their tuition-free spots by up to 20% of budgeted enrolment capacity. Students can register to higher education institutions of their choice. If they cannot prove their previous studies, their level will be evaluated, and they can be granted transferable credits enabling them to continue their studies. In addition, Ukrainian professors will be able to teach in Romanian universities.
+
+Slovakia
+
+Access to pre-primary and compulsory education is free and open to all. Schools will prepare for incoming Ukrainian students by appointing an adaptation coordinator, an interpreter and preparing material and forms in Ukrainian. In addition, various basic and advanced language courses are organized and financed by the Government. In parallel, the MoE and National Institute of Education have made resources available to support teachers managing students with different language levels and those who need psychological support.
+
+Slovenia
+
+The MoE affirms its support for the inclusion of Ukrainian children in the Slovenian education system and states that educational models have been established at the level of primary and secondary schools.
+
+The Faculty for Tourism of the University of Maribor has joined numerous organizations that have been providing aid to Ukrainians by offering free tourism courses at all levels, with language courses available in English and Slovenian.
+
+In parallel, the Research Institute of Child Psychology has activated a helpline while expenses related to the recognition of previous education for persons granted international protection are covered by the Government Office for the Care and Integration of Migrants.
+
+Spain
+
+Ukrainian children will be immediately enrolled in schools and benefit from school canteen services. All students will be assigned by regional authorities to an educational centre and their language skills will be evaluated. If their level is too low, they will be supported with immersion Spanish lessons. At the same time, counsellors will evaluate them to determine if they need any additional support to integrate schools. Some regions such as Catalonia have already developed special protocols such as procedures that guarantee schooling for Ukrainian children and young people even if they are not registered or are missing some documents.
+
+Sweden
+
+Research projects with Russian and Belarus higher institutions have halted. In parallel, a number of chemistry laboratories are offering research positions to Ukrainian researchers. One of Sweden’s Institute has activated its Memorandum of Understanding with Kyiv’s Medical University and is preparing to receive researchers and students.
+
+United Kingdom
+
+The UK is launching the Homes for Ukraine Scheme for visa applications from Ukrainians and immediate family members who have people willing to sponsor them. People arriving under this scheme will be able to live and work in the UK for up to three years, access healthcare, benefits, employment support, and their children will be able to attend local schools and receive English language lessons. Local authorities will receive £10,500 in funding per refugee for support services, with more for children of school age.

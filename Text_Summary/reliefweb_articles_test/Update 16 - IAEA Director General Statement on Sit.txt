@@ -1,0 +1,31 @@
+Update 16 - IAEA Director General Statement on Situation in Ukraine (9 March 2022) [EN/RU]
+
+Ukraine informed the International Atomic Energy Agency (IAEA) today that the Chornobyl Nuclear Power Plant (NPP) had been disconnected from the electricity grid and lost its supply of external power, two weeks after Russian forces took control of the site of the 1986 accident, Director General Rafael Mariano Grossi said.
+
+The Director General expressed deep concern about this development as the “secure off-site power supply from the grid for all nuclear sites” was one of [seven indispensable pillars](https://www.iaea.org/newscenter/pressreleases/iaea-director-general-grossis-initiative-to-travel-to-ukraine) of nuclear safety and security that he outlined at a meeting of the IAEA’s Board of Governors on 2 March, convened to address the safety, security and safeguards implications of the situation in Ukraine.
+
+In the case of the Chornobyl NPP, however, he said the IAEA agreed with the Ukrainian regulator that its disconnection from the grid would not have a critical impact on essential safety functions at the site, where various radioactive waste management facilities are located. Specifically, regarding the site’s spent fuel storage facility, the volume of cooling water in the pool is sufficient to maintain effective heat removal from the spent fuel without a supply of electricity. The site also has reserve emergency power supplies with diesel generators and batteries.
+
+Nevertheless, the lack of power is likely to lead to a further deterioration of operational radiation safety at the site and create additional stress for around 210 technical experts and guards who have not been able to rotate for the past two weeks, in effect living there around the clock, Director General Grossi added.
+
+“From day to day, we are seeing a worsening situation at the Chornobyl NPP, especially for radiation safety, and for the staff managing the facility under extremely difficult and challenging circumstances,” he said. “I repeat my urgent appeal to the forces in effective control of the plant to respect internal radiation protection procedures, to facilitate the safe rotation of staff and to take other important steps to ensure safety.”
+
+In another development, he said the IAEA in recent days had lost remote data transmission from its [safeguards](https://www.iaea.org/topics/safeguards-and-verification) systems installed to monitor nuclear material at the Chornobyl NPP and another Ukrainian nuclear power plant now controlled by Russian forces, the Zaporizhzhya NPP. He said he was concerned about the sudden interruption of such data flows to the IAEA’s Vienna headquarters from the two sites, where large amounts of nuclear material are present in the form of spent or fresh nuclear fuel and other types of nuclear material.
+
+The reason for the disruption in the transmission of safeguards data was not immediately clear. The IAEA continues to receive such data from other nuclear facilities in Ukraine, including the three other nuclear power plants.
+
+“The remote transmission of data from IAEA safeguards equipment located at nuclear sites around the world is an important component of our safeguards implementation, in Ukraine and globally,” he said. “Such systems are installed in several facilities in Ukraine, including all nuclear power plants, and enable us to monitor nuclear material and activities at these sites when our inspectors are not present.”
+
+Even though technical features were in place to ensure that the data was stored locally, the storage capacity as well as the operational status of the monitoring systems remained uncertain, he said.
+
+Through safeguards technical measures the IAEA verifies that countries are honouring their international legal obligations to use nuclear material and technology only for peaceful purposes.
+
+Regarding the status of Ukraine’s operational nuclear power plants, the regulator said eight of the country’s 15 reactors remained operating, including two at the Zaporizhzhya NPP. Radiation levels at the sites were normal, it said.
+
+The Zaporizhzhya NPP site has four high voltage (750 kV) offsite power lines plus an additional one on standby. The operator informed the IAEA that two have been damaged and therefore there were now two power lines, plus the one on standby, available to the plant.  The operator also said that the NPP off-site power needs could be provided with one power line available. Furthermore, diesel generators are ready and functional to provide back-up power. “Nevertheless, this is another example of where the safety pillar to secure off-site power supply from the grid for all nuclear sites has been compromised,” Director General Grossi said.
+
+In addition, the regulator reported that the Unit 6 transformer had been taken out of service and was undergoing emergency repair after damage to its cooling system was detected following the events of 4 March.
+
+These recent developments added to the IAEA’s growing concerns about the safety, security and safeguards impact of the conflict in Ukraine on the country’s nuclear facilities, including its four operating nuclear power plants as well as the Chornobyl site.
+
+As part of his new [initiative](https://www.iaea.org/newscenter/pressreleases/update-13-iaea-director-general-statement-on-situation-in-ukraine) regarding Ukraine, Director General Grossi said he will travel to Antalya tomorrow at the invitation of Turkish Foreign Minister Mevlüt Çavuşoğlu. “In meetings there, I hope to make progress on the urgent issue of ensuring the safety and security of Ukraine’s nuclear facilities. We need to act now,” he said.
